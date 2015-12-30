@@ -1,0 +1,7 @@
+setuptools==17.0
+pyelasticsearch==1.3
+python-dateutil
+cryptography==0.8.2
+urllib3==1.10
+pytz==2015.4
+mock==1.0.1
